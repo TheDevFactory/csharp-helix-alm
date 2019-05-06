@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelixALMRestAPIExample", "HelixALMRestAPIExample\HelixALMRestAPIExample.csproj", "{2ADE7C51-76D0-4935-A29D-277FDEC5628B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ADE7C51-76D0-4935-A29D-277FDEC5628B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ADE7C51-76D0-4935-A29D-277FDEC5628B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ADE7C51-76D0-4935-A29D-277FDEC5628B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ADE7C51-76D0-4935-A29D-277FDEC5628B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95E4B3C1-179B-46B3-A451-C221CAF4AA5B}
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectName0 = SurroundSCMScci
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Surround\u0020SCM
+		SccProjectUniqueName1 = HelixALMRestAPIExample\\HelixALMRestAPIExample.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = HelixALMRestAPIExample\\
+	EndGlobalSection
+EndGlobal
